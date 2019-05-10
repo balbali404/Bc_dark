@@ -439,7 +439,4 @@ message.guild.members.filter(m => m.presence.status === 'online').forEach(m => {
 
 
 
-
-
-
-client.login('NTc2NDI2NzkzMjUxMjQxOTk5.XNWZfw.ypEVGShjxopioes6QtFCNp7R_Mc);
+client.login('srocess.env.BOT_TOKEN')
